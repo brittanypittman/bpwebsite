@@ -471,17 +471,17 @@ header .navbar.animate {
     opacity: 0.8;
 }
 
-/* achievements */
+/* Publications */
 
-#achievements a {
+#Publications a {
     text-decoration: none;
 }
 
-#achievements h3 {
+#Publications h3 {
     color: var(--text-secondary-color) !important;
 }
 
-#achievements .card {
+#Publications .card {
     cursor: context-menu;
     background-color: var(--secondary-color) !important;
     border-radius: 1rem;

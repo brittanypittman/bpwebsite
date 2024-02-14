@@ -212,8 +212,8 @@ params:
           name: "Grenfell Campus, Memorial University of Newfoundland"
         date: "2014-2018"
 
-  # Achievements
-  achievements:
+  # Publications
+  Publications:
     enable: true
     # title: "Custom Name"
     items:
@@ -289,7 +289,7 @@ params:
     enable: true
     # title: "Custom Name"
     email: brittany.pittman@torontomu.ca
-    btnName: Mail me
+    btnName: Email
     # formspree:
     #   enable: true # `contact.email` value will be ignored
     #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
