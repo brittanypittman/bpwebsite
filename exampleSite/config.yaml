@@ -231,9 +231,7 @@ params:
         school:
           name: "Memorial University of Newfoundland"
         date: "2018-2020"
-        content: |-
-          Supervisors: Dr. Danny Dyer and Dr. Jared Howell
-          Thesis: The watchman's walk problem on directed graphs
+        content: 
         - title: "B.Sc. Computational Mathematics"
         school:
           name: "Grenfell Campus, Memorial University of Newfoundland"
