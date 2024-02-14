@@ -124,9 +124,8 @@ params:
   hero:
     enable: true
     intro: "Hi, my name is"
-    title: "Isabella."
-    subtitle: "I build things for the web"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
+    title: "Brittany Pittman."
+    content: "I am a PhD candidate at Toronto Metropolitan University (formerly Ryerson University) in the Department of Mathematics. My research interests include graph searching, pursuit-evasion games, and Ramsey theory."
     image: /images/hero.svg
     bottomImage:
       enable: true
