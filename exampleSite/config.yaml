@@ -218,14 +218,23 @@ params:
     index: false
     items:
     items:
-        - "(In progress)</b> Ph.D. Mathematical Modelling and Methods, Toronto Metropolitan University. Supervisors: Dr. Anthony Bonato and Dr. Michelle Delcourt"
-        - "M.Sc. Mathematics, Memorial University of Newfoundland (2020). Supervisors: Dr. Danny Dyer and Dr. Jared Howell"
-        - "B.Sc. Computational Mathematics, Grenfell Campus, Memorial University of Newfoundland (2018)."
       - title: "Ph.D. Mathematical Modelling and Methods"
         school:
           name: "Toronto Metropolitan University"
         date: "2020 - 2024 (in progress)"
-
+        content: |-
+          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
+      - title: "M.Sc. Mathematics"
+        school:
+          name: "Memorial University of Newfoundland"
+        date: "2018-2020"
+        content: |-
+          Supervisors: Dr. Danny Dyer and Dr. Jared Howell
+          Thesis: The watchman's walk problem on directed graphs
+        - title: "B.Sc. Computational Mathematics"
+        school:
+          name: "Grenfell Campus, Memorial University of Newfoundland"
+        date: "2014-2018"
 
 
   # Achievements
