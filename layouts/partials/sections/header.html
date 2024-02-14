@@ -121,7 +121,7 @@
                     </li>
                     {{ end }}
 
-                    {{ if and (.Site.Params.Publications.enable | default false) (not (.Site.Params.navbar.menus.disableAchievements | default false)) }}
+                    {{ if and (.Site.Params.Publications.enable | default false) (not (.Site.Params.navbar.menus.disablePublications | default false)) }}
                     <li class="nav-item navbar-text">
                         <a class="nav-link" href="{{ .Site.BaseURL | relURL }}#Publications"
                             aria-label="Publications">

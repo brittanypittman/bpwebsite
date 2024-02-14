@@ -491,30 +491,30 @@ header .navbar.animate {
     border: 2px solid transparent;
 }
 
-#achievements a.card {
+#Publications a.card {
     cursor: alias;
 }
 
-#achievements .card h5 {
+#Publications .card h5 {
     color: var(--text-color) !important;
     opacity: 0.9;
 }
 
-#achievements .card:hover {
+#Publications .card:hover {
     border: 2px solid var(--text-color);
     transition: .3s;
 }
-#achievements .card:focus {
+#Publications .card:focus {
     border: 2px solid var(--text-color);
     transition: .3s;
 }
 
-#achievements .card-text {
+#Publications .card-text {
     background-color: var(--secondary-color) !important;
     color: var(--text-secondary-color) !important;
 }
 
-#achievements img {
+#Publications img {
     border-radius: 0.7rem;
 }
 
