@@ -195,11 +195,11 @@ params:
     #   messageCaption: "Enter your message here"
 
   footer:
-    socialNetworks:
-      linkedin: https://linkedin.com
-      twitter: https://twitter.com
-      instagram: https://instagram.com
-      facebook: https://facebook.com
+    #socialNetworks:
+      #linkedin: https://linkedin.com
+      #twitter: https://twitter.com
+      #instagram: https://instagram.com
+      #facebook: https://facebook.com
 
   # List pages like blogs and posts
   listPages:
