@@ -97,7 +97,7 @@ params:
     intro: "Hi, my name is"
     title: "Brittany Pittman."
     content: "I am a PhD candidate at Toronto Metropolitan University (formerly Ryerson University) in the Department of Mathematics. My research interests include graph searching, pursuit-evasion games, and Ramsey theory."
-    image: /images/hero.svg
+    image: /images/profile.png
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
@@ -111,11 +111,9 @@ params:
       fontAwesomeIcons:
         - icon: fab fa-orcid
           url: http://orcid.org/0000-0001-7700-4382
-        - icon: fab fa-googlescholar
-          url: https://scholar.google.com/citations?hl=en&authuser=1&user=quIVPiwAAAAJ
       customIcons:
         - icon: /scholar.png
-          url: "https://example.com"
+          url: "https://scholar.google.com/citations?hl=en&authuser=1&user=quIVPiwAAAAJ"
 
 
   # Experience
