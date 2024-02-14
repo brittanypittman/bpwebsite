@@ -96,7 +96,7 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Brittany Pittman."
-    content: "I am a PhD candidate at Toronto Metropolitan University (formerly Ryerson University) in the Department of Mathematics. My research interests include pursuit-evasion games, and Ramsey theory."
+    content: "I am a PhD candidate at Toronto Metropolitan University (formerly Ryerson University) in the Department of Mathematics. My research interests include pursuit-evasion games and Ramsey theory."
     image: /profile.png
     bottomImage:
       enable: true
