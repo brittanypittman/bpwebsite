@@ -191,7 +191,7 @@ params:
         date: "2014-2018"
 
   # achievements
-  projects:
+  achievements:
     enable: true
     title: "Publications"
     items:
@@ -206,7 +206,7 @@ params:
         url: https://ajc.maths.uq.edu.au/pdf/80/ajc_v80_p197.pdf
 
   # achievements
-  achievements:
+  projects:
     enable: true
     title: "Talks"
     items:
