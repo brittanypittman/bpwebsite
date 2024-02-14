@@ -221,17 +221,12 @@ params:
         content: (with A. Bonato, R. Cushman, and T. Marbach) Discrete and Applied Mathematics
         url: https://arxiv.org/pdf/2208.07788.pdf
       - title: The localization capture time of a graph
-        content: (with N. Behague, A. Bonato, M. Huggan and T. Marbach) Theoretical Computer Science </em> <b> 911 </b> (2022), 80-91.
+        content: (with N. Behague, A. Bonato, M. Huggan and T. Marbach) Theoretical Computer Science, 911 (2022), 80-91.
         url: https://brittanypittman.com/files/CaptureTime.pdf
-      - title: Hugo Profile
-        content: Developed a theme and getting 1K+ downloads per month.
-        url: "https://github.com/gurusabarish/hugo-profile"
-        image: /images/achievment.jpg
-      - title: Microsoft Imagine Runner
-        content: We are developed a product which can help others.
-      - title: Google Summer of Code
-        content: Contributed to a open source project.
-        url: https://example.com
+      - title: The watchman’s walk problem on directed graphs
+        content: (with Danny Dyer and Jared Howell), Australasian Journal of Combinatorics 80:2 (2021).
+        url: https://ajc.maths.uq.edu.au/pdf/80/ajc_v80_p197.pdf
+
 
   # projects
   projects:
