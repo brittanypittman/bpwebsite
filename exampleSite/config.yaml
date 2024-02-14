@@ -116,6 +116,51 @@ params:
           url: "https://scholar.google.com/citations?hl=en&authuser=1&user=quIVPiwAAAAJ"
 
 
+  # Experience
+  experience:
+    enable: true
+    title: "Teaching"
+    items:
+      - job: "Per Course Instructor"
+        company: "Grenfell Campus, Memorial University of Newfoundland"
+        date: "September 2023 - present"
+        content: |
+          - Fall 2023: Math1001 Calculus II
+          - Winter 2024: Math1001 Calculus II and Math4340 Combinatorial Analysis
+      - job: "Teaching Assistant"
+        company: "Toronto Metropolitan University"
+        date: "September 2023 - present"
+        content: |
+          - Winter 2023: MTH314 Discrete Mathematics for Engineers and MTH607 Graph Theory
+          - Fall 2022: MTH 110 Discrete Mathematics
+          - Winter 2022: MTH314 Discrete Mathematics for Engineers and MTH607 Graph Theory
+          - Fall 2021: MTH 110 Discrete Mathematics
+          - Fall 2020: MTH 110 Discrete Mathematics
+  # Education
+  education:
+    enable: true
+    title: "Teaching"
+    index: false
+    items:
+      - title: "Per Course Instructor"
+        school:
+          name: "Grenfell Campus, Memorial University of Newfoundland"
+        date: "September 2023 - present"
+        content: |
+          - Fall 2023: Math1001 Calculus II
+          - Winter 2024: Math1001 Calculus II and Math4340 Combinatorial Analysis
+      - title: "Teaching Assistant"
+        school:
+          name: "Toronto Metropolitan University"
+        date: "September 2020 - May 2023"
+        content: |
+          - Winter 2023: MTH314 Discrete Mathematics for Engineers and MTH607 Graph Theory
+          - Fall 2022: MTH 110 Discrete Mathematics
+          - Winter 2022: MTH314 Discrete Mathematics for Engineers and MTH607 Graph Theory
+          - Fall 2021: MTH 110 Discrete Mathematics
+          - Fall 2020: MTH 110 Discrete Mathematics
+
+
   # Education
   education:
     enable: true
@@ -146,7 +191,7 @@ params:
         date: "2014-2018"
 
   # achievements
-  achievements:
+  projects:
     enable: true
     title: "Publications"
     items:
