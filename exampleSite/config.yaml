@@ -217,11 +217,11 @@ params:
     enable: true
     title: "Publications"
     items:
-      - title: The Localization Game on Oriented Graphs (with A. Bonato, R. Cushman, and T. Marbach)
-        content: Discrete and Applied Mathematics
+      - title: The Localization Game on Oriented Graphs
+        content: (with A. Bonato, R. Cushman, and T. Marbach) Discrete and Applied Mathematics
         url: https://arxiv.org/pdf/2208.07788.pdf
-      - title: The localization capture time of a graph (with N. Behague, A. Bonato, M. Huggan and T. Marbach)
-        content: Theoretical Computer Science
+      - title: The localization capture time of a graph
+        content: (with N. Behague, A. Bonato, M. Huggan and T. Marbach) Theoretical Computer Science </em> <b> 911 </b> (2022), 80-91.
         url: https://brittanypittman.com/files/CaptureTime.pdf
       - title: Hugo Profile
         content: Developed a theme and getting 1K+ downloads per month.
