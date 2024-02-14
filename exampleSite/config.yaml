@@ -217,13 +217,12 @@ params:
     enable: true
     title: "Publications"
     items:
-      - title: Google kickstart runner
-        content: I solved all problems with optimal solution.
-        url: https://example.com
-        image: /images/achievment.jpg
-      - title: Facebook Hackathon Winner
-        content: Developed a product using Artificial Intelligence.
-        image: /images/achievment.jpg
+      - title: The Localization Game on Oriented Graphs (with A. Bonato, R. Cushman, and T. Marbach)
+        content: Discrete and Applied Mathematics
+        url: https://arxiv.org/pdf/2208.07788.pdf
+      - title: The localization capture time of a graph (with N. Behague, A. Bonato, M. Huggan and T. Marbach)
+        content: Theoretical Computer Science
+        url: https://brittanypittman.com/files/CaptureTime.pdf
       - title: Hugo Profile
         content: Developed a theme and getting 1K+ downloads per month.
         url: "https://github.com/gurusabarish/hugo-profile"
