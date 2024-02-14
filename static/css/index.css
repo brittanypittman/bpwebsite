@@ -471,17 +471,17 @@ header .navbar.animate {
     opacity: 0.8;
 }
 
-/* Publications */
+/* achievements */
 
-#Publications a {
+#achievements a {
     text-decoration: none;
 }
 
-#Publications h3 {
+#achievements h3 {
     color: var(--text-secondary-color) !important;
 }
 
-#Publications .card {
+#achievements .card {
     cursor: context-menu;
     background-color: var(--secondary-color) !important;
     border-radius: 1rem;
@@ -491,30 +491,30 @@ header .navbar.animate {
     border: 2px solid transparent;
 }
 
-#Publications a.card {
+#achievements a.card {
     cursor: alias;
 }
 
-#Publications .card h5 {
+#achievements .card h5 {
     color: var(--text-color) !important;
     opacity: 0.9;
 }
 
-#Publications .card:hover {
+#achievements .card:hover {
     border: 2px solid var(--text-color);
     transition: .3s;
 }
-#Publications .card:focus {
+#achievements .card:focus {
     border: 2px solid var(--text-color);
     transition: .3s;
 }
 
-#Publications .card-text {
+#achievements .card-text {
     background-color: var(--secondary-color) !important;
     color: var(--text-secondary-color) !important;
 }
 
-#Publications img {
+#achievements img {
     border-radius: 0.7rem;
 }
 
