@@ -125,7 +125,6 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Brittany Pittman."
-    subtitle: "I am a mathematics PhD Student at Toronto Metropolitan University"
     content: "I am a PhD candidate at Toronto Metropolitan University (formerly Ryerson University) in the Department of Mathematics. My research interests include graph searching, pursuit-evasion games, and Ramsey theory."
     image: /images/hero.svg
     bottomImage:
