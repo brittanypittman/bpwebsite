@@ -215,7 +215,7 @@ params:
   # achievements
   achievements:
     enable: true
-    # title: "Custom Name"
+    title: "Publications"
     items:
       - title: Google kickstart runner
         content: I solved all problems with optimal solution.
