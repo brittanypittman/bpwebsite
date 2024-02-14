@@ -111,8 +111,8 @@ params:
       fontAwesomeIcons:
         - icon: fab fa-orcid
           url: http://orcid.org/0000-0001-7700-4382
-        - icon: fab fa-x-twitter
-          url: https://example.com
+        - icon: fab fa-googlescholar
+          url: https://scholar.google.com/citations?hl=en&authuser=1&user=quIVPiwAAAAJ
       customIcons:
         - icon: /fav.png
           url: "https://example.com"
