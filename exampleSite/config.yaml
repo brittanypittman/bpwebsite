@@ -225,17 +225,7 @@ params:
         school:
           name: "Toronto Metropolitan University"
         date: "2020 - 2024 (in progress)"
-        content: |-
-          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-      - title: "M.Sc. Mathematics"
-        school:
-          name: "Memorial University of Newfoundland"
-        date: "2018-2020"
-        content: 
-        - title: "B.Sc. Computational Mathematics"
-        school:
-          name: "Grenfell Campus, Memorial University of Newfoundland"
-        date: "2014-2018"
+
 
 
   # Achievements
