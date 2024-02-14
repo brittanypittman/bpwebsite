@@ -145,7 +145,7 @@ params:
   education:
     enable: true
     # title: "Custom Name"
-    index: false
+    index: true
     items:
       - title: "PhD in Mathematial Modelling and Methods (in progress)"
         school:
