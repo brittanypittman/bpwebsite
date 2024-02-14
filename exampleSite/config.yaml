@@ -223,9 +223,8 @@ params:
           name: "Toronto Metropolitan University"
         date: "2020-2024"
         content: |-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+            - Supervisors:  
+            - Research areas:
       - title: "Master of Science in Mathematics"
         school:
           name: "Memorial University of Newfoundland"
@@ -240,8 +239,8 @@ params:
             - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
         featuredLink:
           enable: true
-          name: "My academic record"
-          url: "https://example.com"
+          name: "Thesis"
+          url: "https://research.library.mun.ca/14628/1/thesis.pdf"
       - title: "High School"
         school:
           name: "Thomas Jefferson High School for Science and Technology."
