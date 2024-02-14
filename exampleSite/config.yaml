@@ -106,7 +106,7 @@ params:
       name: "CV"
       url: "#"
       download: false
-      newPage: true
+      newPage: false
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-orcid
