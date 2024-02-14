@@ -213,7 +213,7 @@ params:
         date: "2014-2018"
 
   # achievements
-  Publications:
+  achievements:
     enable: true
     # title: "Custom Name"
     items:
