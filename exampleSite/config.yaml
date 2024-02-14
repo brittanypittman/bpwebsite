@@ -112,7 +112,7 @@ params:
         - icon: fab fa-orcid
           url: http://orcid.org/0000-0001-7700-4382
       customIcons:
-        - icon: /scholar.svg
+        - icon: /scholar.png
           url: "https://scholar.google.com/citations?hl=en&authuser=1&user=quIVPiwAAAAJ"
 
 
