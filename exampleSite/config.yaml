@@ -205,23 +205,7 @@ params:
         content: (with Danny Dyer and Jared Howell), Australasian Journal of Combinatorics 80:2 (2021).
         url: https://ajc.maths.uq.edu.au/pdf/80/ajc_v80_p197.pdf
 
-  # achievements
-  projects:
-    enable: true
-    title: "Talks"
-    items:
-      - title: The Localization Game on Oriented Graphs
-        content: (with A. Bonato, R. Cushman, and T. Marbach) Discrete and Applied Mathematics
-      - title: The localization capture time of a graph
-        content: (with N. Behague, A. Bonato, M. Huggan and T. Marbach) Theoretical Computer Science, 911 (2022), 80-91.
-      - title: The watchman’s walk problem on directed graphs
-        content: (with Danny Dyer and Jared Howell), Australasian Journal of Combinatorics 80:2 (2021).
-      - title: The Localization Game on Oriented Graphs
-        content: (with A. Bonato, R. Cushman, and T. Marbach) Discrete and Applied Mathematics
-      - title: The localization capture time of a graph
-        content: (with N. Behague, A. Bonato, M. Huggan and T. Marbach) Theoretical Computer Science, 911 (2022), 80-91.
-      - title: The watchman’s walk problem on directed graphs
-        content: (with Danny Dyer and Jared Howell), Australasian Journal of Combinatorics 80:2 (2021).
+ 
   #Contact
   contact:
     enable: true
