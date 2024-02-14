@@ -77,7 +77,7 @@ params:
     align: ms-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
     # brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
     showBrandLogo: false # Show brand logo in nav bar | default is true
-    brandName: "Brittany" # Brand name for the brand | default is the title variable
+    brandName: "Brittany Pittman" # Brand name for the brand | default is the title variable
     disableSearch: false
     # searchPlaceholder: "Search"
     stickyNavBar:
@@ -103,14 +103,14 @@ params:
     # roundImage: true # Make hero image circular | default false
     button:
       enable: true
-      name: "Resume"
+      name: "CV"
       url: "#"
       download: true
       newPage: false
     socialLinks:
       fontAwesomeIcons:
-        - icon: fab fa-github
-          url: https://example.com
+        - icon: fab fa-orcid
+          url: http://orcid.org/0000-0001-7700-4382
         - icon: fab fa-x-twitter
           url: https://example.com
       customIcons:
