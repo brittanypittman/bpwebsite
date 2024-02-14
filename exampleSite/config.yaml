@@ -121,7 +121,7 @@ params:
   # Experience
   experience:
     enable: true
-    # title: "Teaching"
+    title: "Teaching"
     items:
       - job: "Senior Software Developer"
         company: "Facebook"
